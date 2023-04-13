@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    /*background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20210910/pngtree-strange-forest-overhead-shot-sunrise-sky-outdoor-travel-photography-map-with-image_841130.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    backface-visibility: inherit;
+    background-color: green;*/
+}
+
+.container .tittle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    padding: 40px;
+    color: black;
+}
+.container .tittle h1{
+    text-decoration: underline;
+    padding-bottom: 20px;
+}
+.container .tittle h3{
+    text-decoration: underline;
+    padding-bottom: 20px;
+}
+
+.container .add{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    color: black;
+    font-size: larger;
+    font-weight: bolder;
+    position: relative;
+}
+
+.sites{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 40px;
+    margin-right: 20px;
+    flex-wrap: wrap; 
+    color: black;
+   
+}
+.sites .site{
+     width: calc(33.33% - 5px); /* adjust width to fit 3 items in a row */
+}
+
+.sites .site .img{
+    padding-bottom: 10px;
+    width: 300px;
+    height: 200px;
+}
+.sites .site .name{
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    padding-bottom: 10px;
+    color: black;
+}
+.sites .site .description{
+    width: 300px;
+    padding-bottom: 20px;
+}
+.sites .site .description .p{
+    padding-bottom: 20px;
+}
+
+
+/*.sites .secondsite .img{
+    padding-bottom: 10px;
+    width: 300px;
+    height: 200px;
+}
+.sites .secondsite .name2{
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    padding-bottom: 10px;
+    color: white;
+}
+.sites .secondsite .description2{
+    width: 300px;
+}
+.sites .secondsite .description2 .p2{
+    padding-bottom: 20px;
+}
+
+.sites .thirdsite .img{
+    padding-bottom: 10px;
+    width: 300px;
+    height: 200px;
+}
+.sites .thirdsite .name3{
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    padding-bottom: 10px;
+    color: white;
+}
+.sites .thirdsite .description3{
+    width: 300px;
+}
+.sites .thirdsite .description3 .p3{
+    padding-bottom: 20px;
+}
+.fthsite .img{
+    padding-bottom: 10px;
+    height: 200px;
+    width: 300px;
+}
+.sites .fthsite .name4{
+    text-decoration: underline;
+    color: black;
+    font-weight: bold;
+    font-size: medium;
+    padding-bottom: 10px;
+    color: white;
+}
+.sites .fthsite .description4{
+    width: 300px;
+}
+.sites .fthsite .description4 .p4{
+    padding-bottom: 20px;
+}*/
+
+button{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+button .archor{
+    color: white;
+}

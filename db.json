@@ -1,0 +1,54 @@
+{
+  "sites": [
+    {
+      "id": 1,
+      "name": "Simba Camp",
+      "description": "Simba Camp is in the heart of the Maasai Mara The camp nested in the deep acacia forest on the banks of the Mara River was built by hand with a rustic charm.The camp is ideal for local safaris toMaasai Mara National Park.",
+      "image": "http://127.0.0.1:5500/images/simba.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Ndovu Camp",
+      "description": "A luxury camp perfectly placed to follow the massive herds of wildebeast as they trek on an annual migration betweem Maasai Mara and Serengeti parks in May or June.The camp endeavours to retain an intimate andluxurious vibe alongside the need to respect the location and wildlife.",
+      "image": "http://127.0.0.1:5500/images/ndovu.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nyati Camp",
+      "description": "The camp consists of 4 separate bush chalets, one with single beds, 2 with Queen size beds and one Honeymoon suite with a King size bed, en-suite bathrooms as well as a bar fridge, coffee/tea making facilities and aircons.",
+      "image": "http://127.0.0.1:5500/images/nyati.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Swara Camp",
+      "description": "it is the best camp ever",
+      "image": "http://127.0.0.1:5500/images/stone.png"
+    },
+    {
+      "id": 5,
+      "name": "Girrafe Camp",
+      "description": "let's go to where the tallest animals are",
+      "image": "http://127.0.0.1:5500/images/honey.webp"
+    }
+  ],
+  "accomondations": [
+    {
+      "id": 1,
+      "jina": "Double Room",
+      "detail": "Flying Tent Facing Mount Kilimanjaro Full Board 100$ Per Night",
+      "image": "http://127.0.0.1:5500/images/double.png"
+    },
+    {
+      "id": 2,
+      "jina": "Single Room",
+      "detail": "Flying Tent Facing Mount Kilimanjaro Full Board 85$ Per Night",
+      "image": "http://127.0.0.1:5500/images/single.png"
+    },
+    {
+      "id": 3,
+      "jina": "Stone Double Room",
+      "detail": "Full Board 70$ Per Night",
+      "image": "http://127.0.0.1:5500/images/stone.png"
+    }
+  ]
+}
