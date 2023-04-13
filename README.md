@@ -1,0 +1,2 @@
+It is a mini web app for camp sites in the Maasai Mara. The main use of the web app is to book spots at the limited accommodations at three camps in the Maasai Mara.
+The three camps all have 5 spots for accommodation each. Those who wish to visit book spots on the website. If there are accommodation spots available it issues 'Welcome to our exclusive safari camp!'. If there are no spots available, it issues 'Sorry you are out of luck today' 
